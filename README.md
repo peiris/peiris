@@ -7,7 +7,7 @@ Currently I'm working with few startups & corporates as a freelance consultant f
 ### Recent work (Personal) ⚡️
 
 - ⚡ I recently released a tool called [[WhatTheHex.app](https://www.whatthehex.app)]
-- 🤔 Planning on a doing a fun set of Open-source libraries under [github.com/karapincha](https://github.com/karapincha)
+- 🤔 Planning on a doing a fun set of Open-source libraries under [[github.com/karapincha](https://github.com/karapincha)]
 
 ### Facts about me 💊
 
