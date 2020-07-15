@@ -14,7 +14,7 @@ Currently I'm working with few startups & corporates as a freelance consultant f
 - 🌱 I'm an introvert. but, I do like partying and going out.
 - 🏝 I LOVE beaches.
 - ⛰ Also mountains.
-- 🎤 Not much into small talks
+- 🎤 Not much into small talks.
 - 📸 I love photography [[Instagram B&W](https://www.instagram.com/peiris__) / [Unsplash](https://unsplash.com/@peiris)]
 
 ### 📮 How to reach me
