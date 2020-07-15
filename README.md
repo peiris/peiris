@@ -6,8 +6,8 @@ Currently I'm working with few startups & corporates as a freelance consultant f
 
 ### Recent work (Personal) ⚡️
 
-- ⚡ I recently released a tool called [WhatTheHex](https://www.whatthehex.app)
-- 🤔 Planning on a doing a fun set of Open-source libraries under [Karapincha](https://github.com/karapincha)
+- ⚡ I recently released a tool called [[WhatTheHex.app](https://www.whatthehex.app)]
+- 🤔 Planning on a doing a fun set of Open-source libraries under [github.com/karapincha](https://github.com/karapincha)
 
 ### Facts about me 💊
 
@@ -15,7 +15,7 @@ Currently I'm working with few startups & corporates as a freelance consultant f
 - 🏝 I LOVE beaches.
 - ⛰ Also mountains.
 - 🎤 Not much into small talks
-- 📸 I love photography [Instagram B&W](https://www.instagram.com/peiris__) / [Unsplash](https://unsplash.com/@peiris)
+- 📸 I love photography [[Instagram B&W](https://www.instagram.com/peiris__) / [Unsplash](https://unsplash.com/@peiris)]
 
 ### 📮 How to reach me
 
