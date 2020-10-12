@@ -2,12 +2,12 @@
 
 My name is Kasun Peiris, and I'm a Full-stack UI engineer and a designer based in Colombo, Sri Lanka 🇱🇰. I believe in engineering beautifully and carefully crafted web applications.
 
-Currently I'm working with few startups & corporates as a freelance consultant for building design systems.
+Currently I'm working with a few startups & corporates as a consultant for building design systems.
 
 ### Recent work (Personal) ⚡️
 
 - ⚡ I recently released a tool called [[WhatTheHex.app](https://www.whatthehex.app)]
-- 🤔 Planning on a doing a fun set of Open-source libraries under [[github.com/karapincha](https://github.com/karapincha)]
+- 🤔 Building a fun set of Open-Source libraries under [[github.com/karapincha](https://github.com/karapincha)]
 
 ### Facts about me 💊
 
