@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Kasun Peiris, and I'm a Full-stack UI engineer and a designer based in Colombo, Sri Lanka 🇱🇰. I believe in engineering beautifully and carefully crafted web applications.
+I'm Kasun Peiris, a Full-stack Javascript engineer based in Colombo, Sri Lanka 🇱🇰. I believe in engineering beautifully and carefully crafted web applications.
 
 Currently I'm working with a few startups & corporates as a consultant for building design systems.
 
