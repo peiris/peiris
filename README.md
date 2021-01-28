@@ -19,5 +19,5 @@ Currently I'm working with a few startups & corporates as a consultant for build
 
 ### 📮 How to reach me
 
-- [me@kasun.io](mailto:me@kasun.io)
-- [Twitter](https://twitter.com/peiris__)
+- [peiris@kasun.io](mailto:peiris@kasun.io)
+- [Twitter](https://twitter.com/khpeiris)
