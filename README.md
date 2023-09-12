@@ -1,23 +1,21 @@
-# Hi there 👋
+# Hey, I'm Kasun 👋
 
-I'm Kasun Peiris, a Full-stack Javascript engineer based in Colombo, Sri Lanka 🇱🇰. I believe in engineering beautifully and carefully crafted web applications.
+A Full-stack Javascript engineer based in Colombo, Sri Lanka 🇱🇰. I believe in engineering beautifully crafted, Accessible, and modern web applications.
 
-Currently I'm working with a few startups & corporates as a consultant for building design systems.
+### Side Projects
 
-### Recent work (Personal) ⚡️
+- 🖊️ OneWrite _(Work in Progress)_ - A multi-tenant SaaS application for Professionals to build and deploy a portfolio website faster.
+- 🎨 WhatTheHex - A simple web application to get a name for any given Hex color code. [[WhatTheHex.app](https://www.whatthehex.app)]
+- 📖 GitWhois - Extract a detailed overview from any public github repository. [[GitWhois.com](https://www.gitwhois.com)]
 
-- ⚡ I recently released a tool called [[WhatTheHex.app](https://www.whatthehex.app)]
-- 🤔 Building a fun set of Open-Source libraries under [[github.com/karapincha](https://github.com/karapincha)]
+### About me
 
-### Facts about me 💊
-
-- 🌱 I'm an introvert. but, I do like partying and going out.
+- 🌱 I'm an ambivert. Sometimes I enjoy coding while listening to music for days without leaving the home. And sometimes I can't get enough of traveling and discover new places. So I'm Both IT.
 - 🏝 I LOVE beaches.
 - ⛰ Also mountains.
-- 🎤 Not much into small talks.
-- 📸 I love photography [[Instagram B&W](https://www.instagram.com/peiris__) / [Unsplash](https://unsplash.com/@peiris)]
+- 📸 I also sometimes publish pictures I capture. [[Instagram B&W](https://www.instagram.com/peiris__) / [Unsplash](https://unsplash.com/@peiris)]
 
-### 📮 How to reach me
+### How to reach me
 
 - [peiris@kasun.io](mailto:peiris@kasun.io)
-- [Twitter](https://twitter.com/khpeiris)
+- [Twitter / X](https://x.com/khpeiris)
