@@ -7,4 +7,4 @@ A Full-stack Javascript engineer based in Colombo, Sri Lanka 🇱🇰.
 - [peiris@kasun.io](mailto:peiris@kasun.io)
 - [Twitter / X](https://x.com/khpeiris)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=peiris)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=peiris&theme=transparent&hide_border=true&mode=weekly)](https://git.io/streak-stats)
